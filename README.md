@@ -146,6 +146,6 @@ Check out the [full blog post](https://medium.com/@ougabriel/cicd-project-produc
 ---
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [ougabriel@gmail.com](mailto:ougabriel@gmail.com).
+If you have any questions or suggestions, feel free to contact me at sj27773@gmail.com
 
 ```
